@@ -1,6 +1,20 @@
 {
   "name": "svelte-smart-complete",
-  "version": "1.0.0",
+  "version": "0.0.1",
+  "author": {
+    "name": "Jan-Stefan Janetzky",
+    "email": "git@gottz.de",
+    "url": "https://gottz.de"
+  },
+  "homepage": "https://github.com/help-appreciated/svelte-smart-complete",
+  "keywords": [
+    "autocomplete",
+    "mention dropdown",
+    "inline completion"
+  ],
+  "license": "MIT",
+  "repository": "github:help-appreciated/svelte-smart-complete",
+  "bugs": "https://github.com/help-appreciated/svelte-smart-complete/issues",
   "devDependencies": {
     "node-sass": "^4.12.0",
     "npm-run-all": "^4.1.5",
